@@ -1,5 +1,6 @@
 
 
+
 /* index.css (versión limpia con imports) */
 @import "./styles/footer.css";
 @import "./styles/header.css";
@@ -7,4 +8,5 @@
 @import "./styles/nav.css";
 @import "./styles/page.css";
 @import "./styles/team.css";
+
 
